@@ -1,0 +1,62 @@
+{
+  "style": "mythic sci-fi circuitry, deep midnight blue, electric cyan and gold energy, glossy 3D render, dramatic rim light, high contrast",
+  "palette": {
+    "night": "#141A3C",
+    "cyan": "#39C7FF",
+    "gold": "#F3C54C",
+    "violet": "#7450C8",
+    "cream": "#F5EFE5"
+  },
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, one single glossy 3D golden hexagonal stone rune tile with a glowing electric cyan lightning bolt engraved in its center, centered, dark navy blue radial gradient background, crisp studio lighting, no text, no other objects"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game loader background, deep midnight blue night sky with violet nebula haze and scattered small stars, very dark, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game menu background, floating carved stone hexagonal platforms drifting in a starry night sky, cyan and gold energy glow between them, 3D render, vibrant, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game background, soft blurred dark navy blue sky with faint violet aurora, low contrast for UI overlay, no text, no UI elements"
+    },
+    {
+      "name": "sprite_rune_hex",
+      "type": "sprite",
+      "prompt": "One single carved stone hexagonal rune tile with a glowing cyan circuit groove across it, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_beacon_lit",
+      "type": "sprite",
+      "prompt": "One single lit golden beacon brazier column with a bright flame bowl on top, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_source_core",
+      "type": "sprite",
+      "prompt": "One single glowing electric cyan energy orb core with crackling sparks, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_lightning",
+      "type": "sprite",
+      "prompt": "One single stylized electric cyan lightning bolt, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_star",
+      "type": "sprite",
+      "prompt": "One single glossy golden five pointed star with soft glow, centered icon, 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "button_cta",
+      "type": "button",
+      "prompt": "Horizontal game CTA button background, cyan to violet glossy gradient, rounded corners, subtle inner glow, no text"
+    }
+  ]
+}
