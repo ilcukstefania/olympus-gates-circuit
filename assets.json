@@ -1,0 +1,44 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, glossy 3D hexagonal carved stone rune tile with one glowing gold lightning glyph on its face, cyan rim light, single hero object dead centre, deep navy radial gradient background, crisp, no text, no scene"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game loader background, storm-dark night sky over distant marble gate silhouettes, very low contrast, deep navy and black, faint cyan lightning haze, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game menu background, celestial marble gate on a cloud peak, cyan lightning arcs and gold light shafts, deep navy sky, vibrant 3D render, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game background, softly blurred deep navy cloud field with faint gold light, very low contrast for UI overlay, calm, no text, no UI elements"
+    },
+    {
+      "name": "bg_result",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game result screen background, blurred navy storm clouds parting with a gold glow from above, low contrast, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "sprite_rune_hex",
+      "type": "sprite",
+      "prompt": "One single hexagonal carved stone rune tile with a glowing cyan groove, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_beacon",
+      "type": "sprite",
+      "prompt": "One single glowing cyan celestial beacon pillar, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_bolt",
+      "type": "sprite",
+      "prompt": "One single golden lightning bolt, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    }
+  ]
+}
